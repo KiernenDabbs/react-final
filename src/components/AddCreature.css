@@ -1,0 +1,8 @@
+#addStudent {
+    background-color: lightslategray;
+    box-shadow: 2px 2px 2px 2px #000;
+    border: thin solid black;
+    padding: 2em;
+    color: green;
+    font-size: 110%;
+}

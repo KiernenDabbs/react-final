@@ -1,0 +1,22 @@
+body {
+  padding: 2em;
+}
+
+#allStudents{
+  box-shadow: 2px 2px 2px 2px #000;
+  border: thin solid black;
+  padding: 3em;
+}
+
+#searchStudents {
+  color: blue;
+  background-color: lightslategray;
+  box-shadow: 2px 2px 2px 2px #000;
+  border: thin solid black;
+  padding: 2em;
+  font-size: 120%;
+}
+
+#searchStudents button{
+  margin-top: 1.45em;
+}
